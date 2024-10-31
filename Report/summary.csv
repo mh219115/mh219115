@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+agile_product_backlog,10,64,0,240,94.37,100.000%,12.43781,25.84,0.00,2127.6
+index,10,1084,656,1753,373.18,0.000%,5.61482,544.52,0.78,99306.6
+agile_manifesto,10,641,442,979,140.32,0.000%,7.51880,754.33,1.12,102733.4
+TOTAL,30,596,0,1753,479.95,33.333%,11.56961,768.93,1.11,68055.9
